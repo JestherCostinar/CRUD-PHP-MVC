@@ -1,0 +1,15 @@
+{
+    "name": "puroky/mvc_crud",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesther Costinar",
+            "email": "jesther.jc15@gmail.com"
+        }
+    ],
+    "require": {}
+}
